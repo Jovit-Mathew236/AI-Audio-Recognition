@@ -1,0 +1,6 @@
+torch
+torchaudio
+fastapi
+uvicorn
+speechbrain==0.5.12
+pydantic
